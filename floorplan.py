@@ -1,7 +1,6 @@
 import ezdxf
 import matplotlib.pyplot as plt
 import cv2
-import numpy as np
 from heapq import heappush, heappop
 from ezdxf.addons.drawing import RenderContext, Frontend
 from ezdxf.addons.drawing.matplotlib import MatplotlibBackend
